@@ -222,6 +222,7 @@ API | Description | Auth | HTTPS | CORS |
 <br >
 <br >
 ### Blockchain
+| [Test](test.api.com) | Test API Description | OAuth | true | Unknown |
 | API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
 | [Bitquery](https://graphql.bitquery.io/ide) | Onchain GraphQL APIs & DEX APIs | `apiKey` | Yes | Yes |
