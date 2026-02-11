@@ -97,6 +97,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 <br >
 
 ### Animals
+| [Test](test.api.com) | Test API | OAuth | true | Yes |
 API | Description | Auth | HTTPS | CORS 
 |:---|:---|:---|:---|:---|
 | [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | Resource to help get pets adopted | `apiKey` | Yes | Yes |
